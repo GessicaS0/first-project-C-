@@ -1,0 +1,14 @@
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\bin\Debug\net8.0\PrimeiroProj.exe
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\bin\Debug\net8.0\PrimeiroProj.deps.json
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\bin\Debug\net8.0\PrimeiroProj.runtimeconfig.json
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\bin\Debug\net8.0\PrimeiroProj.dll
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\bin\Debug\net8.0\PrimeiroProj.pdb
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\obj\Debug\net8.0\PrimeiroProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\obj\Debug\net8.0\PrimeiroProj.AssemblyInfoInputs.cache
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\obj\Debug\net8.0\PrimeiroProj.AssemblyInfo.cs
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\obj\Debug\net8.0\PrimeiroProj.csproj.CoreCompileInputs.cache
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\obj\Debug\net8.0\PrimeiroProj.dll
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\obj\Debug\net8.0\refint\PrimeiroProj.dll
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\obj\Debug\net8.0\PrimeiroProj.pdb
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\obj\Debug\net8.0\PrimeiroProj.genruntimeconfig.cache
+C:\Users\gessi\source\repos\PrimeiroProj\PrimeiroProj\obj\Debug\net8.0\ref\PrimeiroProj.dll
